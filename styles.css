@@ -14,7 +14,7 @@ body {
 /* Flex layout for side-by-side containers */
 .background-container {
     flex: 7;
-    background-image: url('your-image.jpg'); /* Replace with your image path */
+    background-image: url('assets/imgs/christy.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     position: relative;
